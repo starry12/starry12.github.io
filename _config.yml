@@ -12,7 +12,7 @@ title                    : "Qian Wei (魏倩)"
 #title_separator          : "-"
 name                     : &name "Qian Wei"
 description              : &description ""
-#url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://starry12.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "starry12/starry12.github.io"
 
