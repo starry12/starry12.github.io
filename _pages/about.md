@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-<h3>About me</h3>
+<h3></h3>
 <p align = "justify"> 
  I am a PhD student at the Computer Architecture and Embedded Systems Research Center, School of Computer Science and Technology, <a href="https://en.sdu.edu.cn">Shandong University</a>, and my supervisor is Professor <a href="https://zyshen00.github.io/">Zhaoyan Shen</a>.
 </p> 
