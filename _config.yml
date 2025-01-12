@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-#locale                   : "en-US"
+locale                   : "en-US"
 title                    : "Qian Wei (魏倩)"
 #title_separator          : "-"
 name                     : &name "Qian Wei"
@@ -25,7 +25,7 @@ author:
   name             : "Qian Wei"
   pronouns         : # example: "she/her"  
   bio              : ""
-  #location         : ""
+  location         : "Qingdao, Shandong"
   employer         : "Shandong University"
   uri              : # URL
   email            : "wei.qian@mail.sdu.edu.cn" 
