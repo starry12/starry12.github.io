@@ -11,54 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. Student, <a href="https://www.sdu.edu.cn/"> Shandong University</a>, 2022-now
+* M.E., <a href="https://www.sdu.edu.cn/"> Shandong University</a>, 2019-2022
+* B.E., <a href="http://www.ncu.edu.cn/"> Nanchang University</a>, 2015-2019
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<h2>Research Grants</h2>
+<ol reversed>
+<li><strong>Principal Investigator.</strong> NSFC for the Young Scholar Basic Research Program (PhD level).</li>
+</ol>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<h2>Honors and Awards</h2>
+<ul>
+<li><strong>2024</strong>	TODO</li>
+<li><strong>2024</strong>	Scholarship, Shandong University</li>
+</ul>
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<h2>Services</h2>
+<h3>Reviewers</h3>
+<ul>
+<li><i>TECS</i></li>
+</ul>
