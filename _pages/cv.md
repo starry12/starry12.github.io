@@ -20,11 +20,6 @@ Education
 <li><strong>Principal Investigator.</strong> NSFC for the Young Scholar Basic Research Program (PhD level).</li>
 </ol>
 
-<h2>Honors and Awards</h2>
-<ul>
-<li><strong>2024</strong>	TODO</li>
-<li><strong>2024</strong>	Scholarship, Shandong University</li>
-</ul>
 
 <h2>Services</h2>
 <h3>Reviewers</h3>
