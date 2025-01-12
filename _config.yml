@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Qian Wei (魏倩)"
-#title_separator          : "-"
+title_separator          : "-"
 name                     : &name "Qian Wei"
 description              : &description ""
 url                      : "https://starry12.github.io"
