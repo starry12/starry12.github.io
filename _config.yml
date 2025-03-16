@@ -56,7 +56,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "wq_starry/"
+  #instagram        : "wq_starry/"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -68,7 +68,7 @@ author:
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
-  weibo            : "u/5268150738"
+  #weibo            : "u/5268150738"
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
