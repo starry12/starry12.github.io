@@ -20,3 +20,9 @@ redirect_from:
   <li>SSD</li>
   <li>KV Store</li>
 </ul>
+
+<p align="justify">
+  <strong>Publications:</strong>
+  Please see my <a href="https://starry12.github.io/publications/">Publications page</a> for a complete list.
+  You can also find my articles on <a href="https://scholar.google.com.hk/citations?user=fT7PDcQAAAAJ&hl=zh-CN">my Google Scholar profile</a>.
+</p>
