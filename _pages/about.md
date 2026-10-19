@@ -21,6 +21,31 @@ redirect_from:
   <li>KV Store</li>
 </ul>
 
+<style>
+.news-list {
+  font-size: 0.9em;
+  line-height: 1.6;
+  padding-left: 1.5em;
+}
+.news-list li {
+  margin-bottom: 0.5em;
+}
+.news-date {
+  font-style: italic;
+  margin-right: 0.5em;
+  white-space: nowrap;
+}
+</style>
+
+<h2 id="news">News</h2>
+
+<ul class="news-list">
+  <li><span class="news-date">2026.10:</span> Our paper entitled “A Host-CSD Collaborative Framework for High-Performance LSM-Based KV Stores” has been accepted by ACM TACO.</li>
+  <li><span class="news-date">2026.09:</span> Our papers entitled “DiGiT: Co-Designing GNN Algorithms and Storage I/O for Out-of-Core Training Acceleration” and “DAG-KV: DAG-Guided KV Propagation for Structure-Aware Knowledge Reuse” have been accepted by ATC’26.</li>
+  <li><span class="news-date">2026.08:</span> Our paper entitled “A Multi-Agent Reinforcement Learning-Assisted Space Management Scheme for Hybrid SSDs” has been accepted by ACM TACO.</li>
+  <li><span class="news-date">2026.08:</span> Our paper entitled “CARM: Cost-Aware Resource Management for Log-Structured Merge-tree Key-Value Stores” has been accepted by ICCD’26.</li>
+</ul>
+
 <p align="justify">
   <strong>Publications:</strong>
   Please see my <a href="https://starry12.github.io/publications/">Publications page</a> for a complete list.
